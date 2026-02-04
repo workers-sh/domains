@@ -162,11 +162,13 @@ live.bhvr.com
 latest.bhvr.com
 cdn.bhvr.com
 api.bhvr.com
+bhvronline.com
 
 // Amazon Web Services (AWS)
 aws.amazon.com
-console.aws.amazon.com
 amazonaws.com
+compute-1.amazonaws.com
+eu-central-1.compute.amazonaws.com
 
 // Easy Anti-Cheat
 easy.ac
