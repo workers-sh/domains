@@ -162,6 +162,7 @@ live.bhvr.com
 latest.bhvr.com
 cdn.bhvr.com
 api.bhvr.com
+kubernetes.docker.internal
 
 // Amazon Web Services (AWS)
 aws.amazon.com
