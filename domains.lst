@@ -165,8 +165,14 @@ api.bhvr.com
 kubernetes.docker.internal
 
 // Amazon Web Services (AWS)
-aws.amazon.com
+signin.aws.amazon.com
+cloudfront.net
+s3.amazonaws.com
+awsstatic.com
+console.aws.a2z.com
 amazonaws.com
+awsapps.com
+sso.amazonaws.com
 
 // Easy Anti-Cheat
 easy.ac
