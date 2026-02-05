@@ -173,6 +173,11 @@ console.aws.a2z.com
 amazonaws.com
 awsapps.com
 sso.amazonaws.com
+compute.amazonaws.com
+a0.awsstatic.com
+d1.awsstatic.com
+ip-ranges.amazonaws.com
+awsglobalaccelerator.com
 
 // Easy Anti-Cheat
 easy.ac
