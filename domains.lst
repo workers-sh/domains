@@ -166,6 +166,7 @@ kubernetes.docker.internal
 
 // Riot Games
 auth.riotgames.com
+authenticate.riotgames.com
 
 // Amazon Web Services (AWS)
 signin.aws.amazon.com
