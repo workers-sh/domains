@@ -164,6 +164,9 @@ cdn.bhvr.com
 api.bhvr.com
 kubernetes.docker.internal
 
+// Riot Games
+auth.riotgames.com
+
 // Amazon Web Services (AWS)
 signin.aws.amazon.com
 cloudfront.net
@@ -186,7 +189,6 @@ easyanticheat.net
 api.easyanticheat.net
 modules.easyanticheat.net
 integrity.easyanticheat.net
-
 
 // Asahi linux
 asahilinux.org
@@ -212,7 +214,7 @@ images.steamusercontent.com
 // Nexusmods
 nexus-cdn.com
 
-// Amazon (для облачных синхронизаций steam
+// Amazon (для облачных синхронизаций Steam)
 amazonaws.com
 
 // Install IPA
