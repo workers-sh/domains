@@ -41,6 +41,8 @@ pstmn.io
 dl.google.com
 cursor.sh.cdn.cloudflare.net
 bam.nr-data.net.cdn.cloudflare.net
+cursor.sh
+fastly-tls12-bam.nr-data.net
 
 // Slack
 slack-edge.com
