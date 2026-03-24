@@ -43,6 +43,7 @@ cursor.sh.cdn.cloudflare.net
 bam.nr-data.net.cdn.cloudflare.net
 cursor.sh
 fastly-tls12-bam.nr-data.net
+regex101.com
 
 // Slack
 slack-edge.com
