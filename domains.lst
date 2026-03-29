@@ -180,6 +180,9 @@ cdn.bhvr.com
 api.bhvr.com
 kubernetes.docker.internal
 
+// EA
+ea.com
+
 // Riot Games
 auth.riotgames.com
 authenticate.riotgames.com
