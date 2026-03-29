@@ -182,6 +182,13 @@ kubernetes.docker.internal
 
 // EA
 ea.com
+accounts.ea.com
+auth.ea.com
+eaassets.com
+api.ea.com
+eaimg.com
+easyanticheat.net
+electronicarts.com
 
 // Riot Games
 auth.riotgames.com
