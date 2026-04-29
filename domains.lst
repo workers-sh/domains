@@ -46,6 +46,7 @@ fastly-tls12-bam.nr-data.net
 regex101.com
 mend.io
 schemastore.org
+storage.googleapis.com
 
 // Python
 pythonhosted.org
