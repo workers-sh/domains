@@ -136,7 +136,7 @@ speedtest.net
 dota2protracker.com
 dotabuff.com
 replaycdn.valve.net
-replay181.valve.net
+^replay[0-9]+\.valve\.net$
 
 // CD Project RED
 cdprojekt.com
